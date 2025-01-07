@@ -59,11 +59,11 @@ The app will fetch and display a temperature trend for the next 3 days in Tokyo.
 
 Screenshots
 Temperature View
-![Alt Text](images/temprature.png)
+![Image 1](WeatherForecastDataApp/images/temprature.png)
 
 
 Sky Condition View
-![Alt Text](images/sky.png)
+![Image 2](WeatherForecastDataApp/images/sky.png)
 
 
 Notes
