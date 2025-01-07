@@ -59,10 +59,12 @@ The app will fetch and display a temperature trend for the next 3 days in Tokyo.
 
 Screenshots
 Temperature View
-![img.png](img.png)
+![Alt Text](images/temprature.png)
+
 
 Sky Condition View
-![img_1.png](img_1.png)
+![Alt Text](images/sky.png)
+
 
 Notes
 Ensure your API key from OpenWeatherMap is valid and has access to the required data.
